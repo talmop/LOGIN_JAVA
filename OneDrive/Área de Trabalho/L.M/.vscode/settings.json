@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "c:\\Program Files\\Java\\jdk-21",
+    "java.home": "C:\\Program Files\\Java\\jre-1.8",
+    "cSpell.words": [
+        "sobrenome"
+    ],
+        "java.project.referencedLibraries": [
+        "C:\\Users\talmo\\OneDrive\\Área de Trabalho\\L.M\\lib\\mysql-connector-j-8.2.0"
+        ]
+}
